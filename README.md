@@ -29,7 +29,7 @@ Este script contiene una serie de funciones en Python organizadas por nivel de d
 16. **Validar contraseña segura:** Verifica si una contraseña tiene mayúsculas, minúsculas, números y símbolos.
 17. **Simular dado:** Simula el lanzamiento de un dado de 6 caras.
 18. **Suma de elementos únicos:** Suma los números que no se repiten en una lista.
-19. **Generador de contraseñas:** (Mucho ki).
+19. **Generador de contraseñas:** Genera una contraseña aleatoria según la longitud dada.
 20. **Composición de funciones:** Aplica una función dentro de otra usando un valor dado.
 
 ---
